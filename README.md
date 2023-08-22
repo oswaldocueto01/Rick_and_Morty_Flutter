@@ -1,6 +1,6 @@
 # rick_and_morty
 
-Proyect using api of Rick And Morty in Rest.
+Proyect using api of Rick And Morty in Rest, Riverpod and go router.
 
 ## Getting Started
 
